@@ -1,5 +1,6 @@
 # Expense Tracker - React
 
+<img src="./screenshot/init.png">
 <img src="./screenshot/expense_tracker.png">
 
 ## Key Features :  
